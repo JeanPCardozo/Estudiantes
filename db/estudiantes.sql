@@ -46,7 +46,7 @@ CREATE TABLE `estudiante` (
 --
 
 INSERT INTO `estudiante` (`id`, `nombre`, `apellido`, `fecha_nacimiento`, `semestre`, `email`, `genero`, `telefono`, `programa`, `universidad`, `password`) VALUES
-(11, 'Breimer', 'Correa', '1998-07-28', 6, 'breimerct@gmail.com', 'Masculino', '3024421503', 'ing. de software', 'universidad de cartagena', '123456789');
+(11, 'Jean', 'Cardozo', '2000-04-01', 6, 'jeancardozo_01@outlook.com', 'Masculino', '3153789734', 'ing. de software', 'universidad de cartagena', '123456789');
 
 --
 -- Índices para tablas volcadas

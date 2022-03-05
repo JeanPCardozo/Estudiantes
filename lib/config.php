@@ -5,5 +5,5 @@ require_once 'php-activerecord/activerecord.php';
 activerecord\config::initialize(function ($cfg) {
     $cfg->set_model_directory('models');
     $cfg->set_connections(array(
-        'development' => 'mysql://root:@localhost/estudiantes'));
+        'production' => 'mysql://uasktf7r4ce3rt2s:lpChTnBu4W64f15sBF8O@bxfqgvqyyufnvoh3wui2-mysql.services.clever-cloud.com/bxfqgvqyyufnvoh3wui2'));
 });
